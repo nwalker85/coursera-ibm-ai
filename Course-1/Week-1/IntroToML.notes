@@ -1,0 +1,94 @@
+Machine learning algorithm types:
+    - Regression model
+        predicting continuous values
+            ex. price of a house based on characteristics
+            ex. emmissions of a car based on engine size
+        
+    - Classification
+      -   predicting the class/category
+            ex. cell is benign or malignant
+            ex. will this customer churn?
+    - Clustering
+        finding the structure of data
+            find similar patients
+            customer segmentation at a bank
+    - Associations
+        associating frequent co-occuring events/items
+            groceries you might buy if you buy this items
+
+    - Anomaly detection
+        discover abnormal or unusual characteristics  
+            fraud detection
+    - Sequence mining
+        predict next item
+            click-stream (HMM, Markov Model) (??)
+    - Dimension Reduction
+        reduce the size of data
+    - Recommendation systems
+        associates people's preferences with others 
+            recommends new items like books
+
+
+Basic overview of the common concepts:
+
+    AI
+        tries to make computers intelligence
+            computer vision
+            language processing
+            creativity
+            summariziation
+
+    Machine learning   
+        branch of AI
+            learn to do problems by studying examples
+            think thousands of datapoints in a set
+
+    Deep learning
+        Computers can make decisions/learn on their own.
+
+
+Python Libraries:
+
+- NumPy
+    Arrays, dicts, functions, datatypes, images
+
+- SciPy
+    Signal processing, optimisation, statics, etc
+    Scientific and high performance
+
+- matplotlib
+    2d plotting library
+
+- pandas
+    high performance, easy to use data structures
+    data importing
+
+- scikit-learn
+    machine learning library
+    most classification, regression and clustering algos
+    works with psipy and numpy
+    easy to implement, pipeline is already built
+
+
+Supervised vs Unsupervised:
+
+    - ! Supervised training = labeled data
+        - classification
+            predicting classification
+        - regression 
+            predicting continuous value
+
+    - ! Unsupervised training = unlabeled data
+
+        - dimension reduction
+            'feature selection'
+        - density estimation
+            'mostly used to explore data to find structure'
+        - market basket analysis
+            'if i buy a certain group of items, im more likely to buy this group'
+        - clustering
+            most popular
+            grouping datapoints that are similar
+            cluster analysis is very very useful
+                ex. help a bank with finding customer segmentation
+

@@ -1,0 +1,43 @@
+Introduction to Regression:
+
+    - X = independant variable
+        known data
+
+    - Y = dependant data
+        unknown data
+
+    - Simple Regression
+        Single X to find Y
+        'Predict co2emissions vs EngineSize of all cars'
+        Simple Linear Regression
+        Simple Non-linear Regression
+    - Mutiple Regression
+        Multiple Xs to find single Y
+        'predict co2emissions vs EngingeSize and Cylinders of all cars'
+        Multiple Linear Regression
+        Multiple Non-linear Regression
+
+    - Regression analysis examples
+        Sales forcasting
+            take independant data like age, experience, to predict dependant data, sales
+        Satisfaction analysis
+        Price Estimation
+        Employment Income
+        etc
+
+    - Regression Algorithm types
+        Ordinal Regression
+        Poisson Regression
+        Fast forest quantile Regression
+        Linear, Plynomial, Lasso, Stepwise, Ridge Regression
+        Bayesian linear Regression
+        Neural network Regression
+        decision forest Regression
+        bossted decision tree Regression
+        KNN (k-nearest neighbors)
+
+Simple Linear Regression:
+
+    
+
+    
