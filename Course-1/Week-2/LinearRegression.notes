@@ -38,6 +38,28 @@ Introduction to Regression:
 
 Simple Linear Regression:
 
-    
+Given a dataset, you can predict a continuous value?
+linear model, explains the relationship between two variables
+dependant and independant variable
+key point: 
+dependant value should be continous and cannot be a discrete value
+independant values can be categorical or continuous measurment scale
 
-    
+single linear regression: one independant variable used to predict another dependant variable
+multiple linear regression: multiple independant variables
+
+plot your variables
+scatter plot shows trends
+fit a line through the data
+as engine size increases, so do the emissions
+given engine size, predict emissions
+given x, you can figure out y by finding the line
+polynomial
+
+intercept 
+coeficences of linear equation
+
+y = mx + b ??
+
+residual error= distance from the data point to the data line.
+
