@@ -1,0 +1,16 @@
+Imagine a telco has segmented customers by service usage patterns
+4 groups
+customize offers based on demos
+
+this is a classification problem.
+
+for example
+
+take region, age, marital status, address, income, education, eployment, gender, etc.
+return customer category.
+
+the basic concept behind KNNs is not to build a linear model
+but to look at datapoints nearest to it on a scatter plot and
+make predictions about dependant variables based on the k most 
+closely related datapoints based on euclidean distance
+
