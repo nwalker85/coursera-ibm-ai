@@ -1,0 +1,21 @@
+#Overview
+a data compression algorithm where the compression and decompression 
+cuntions are learned automatically from the data
+
+autoencoders are data specific
+
+Applications:
+data denoising, dimensionality reduction for data visualization
+
+model -> encoder -> compressed representation -> decoder -> model
+
+it tries to predict x from x without the need for any labels
+
+note:
+Restricted Boltzmann Machines
+(RBMs)
+good for fixing imbalanced datasets
+also good for estimating missing values
+also good for automatic feature extraction in unstructured data
+
+

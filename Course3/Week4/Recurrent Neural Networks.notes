@@ -1,0 +1,18 @@
+#Overview
+
+Most networks assume independant datapoints.
+RNNs don't.
+
+Think a movie scene. Each frame is not independant.
+
+"Networks with loops"
+
+They take time and the previous output into account, giving it context and a time dimension.
+
+Applications:
+
+image generation
+handwriting generation
+automatic captioning of images
+automatic description of videos
+

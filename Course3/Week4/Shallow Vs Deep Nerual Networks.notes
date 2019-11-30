@@ -1,0 +1,20 @@
+# Shallow vs Deep Neural Networks
+
+A shallow neural network consists of one hidden layer
+
+A deep neural network has many hidden laters and a large number of neurons per layer
+
+But why only recently?
+
+3 Main Factors
+
+1) advancement in the field
+    ex, solving the vanishing gradient problem
+2) Data
+    there is now more highly available data than ever, thanks internet
+    with regular machine learning, there are diminishing returns to adding more data,
+        unlike deep learning
+3) computational power
+    do you have any idea how fast a modern gpu is?
+
+

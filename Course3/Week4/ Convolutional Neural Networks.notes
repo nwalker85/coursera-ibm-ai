@@ -1,0 +1,9 @@
+#Overview
+
+- Similar to typical neural networks
+- take input as images
+- with that a given, it's more efficient
+- CNNs are for "computer vision" problems.
+
+the basic idea is it compresses the inputs, recucing the overall number of parameters
+this makes it good for computer vision, because you aren't overfit.
